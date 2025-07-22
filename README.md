@@ -1,6 +1,6 @@
 # Olá, sou Moises Mucelo 👋
 
-**Data Scientist | Engenheiro de TI | Especialista em Infraestrutura HPC**
+**Data Scientist | Engenheiro de TI | Especialista de TIC**
 
 📍 Maputo, Moçambique  
 📧 moises.mucelo@email.com  
