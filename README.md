@@ -20,7 +20,6 @@ Atualmente em transição para **Ciência de Dados**, com cursos em Data Science
 
 - **Linguagens de Programação:** Python, SQL, Bash
 - **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Visualização:** Power BI, Tableau
 - **Machine Learning:** Regressão, Classificação, NLP
 - **Big Data:** Spark, Hadoop
 - **Outras:** Git, Linux, Docker (básico)
